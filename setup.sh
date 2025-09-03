@@ -1,0 +1,1 @@
+#!/bin/bash echo "Installing dependencies for Delta Exchange India Dashboard..." npm install echo "Setup complete! Next steps:" echo "1. Configure your API keys in .env.local" echo "2. Run: npm run dev" echo "3. Open http://localhost:3000"
